@@ -28,7 +28,8 @@
     "tonal-key": "^2.0.0",
     "tonal-note": "^2.0.0",
     "tonal-pcset": "^2.0.0",
-    "tonal-scale": "^2.0.0"
+    "tonal-scale": "^2.0.0",
+    "tonal-range": "^2.0.0"
   },
   "babel": {
     "presets": [

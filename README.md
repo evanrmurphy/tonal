@@ -1,3 +1,5 @@
+_**About this fork of tonal:** The only difference from upstream is it includes tonal-range in the main build. This way Tonal.Range is available when importing via dist/tonal.min.js._
+
 # tonal [![npm](https://img.shields.io/npm/v/tonal.svg?style=flat-square)](https://www.npmjs.com/package/tonal)
 
 [![Build Status](https://travis-ci.org/danigb/tonal.svg?branch=master&style=flat-square)](https://travis-ci.org/danigb/tonal) [![license](https://img.shields.io/npm/l/tonal.svg)](https://www.npmjs.com/package/tonal)
