@@ -41,8 +41,9 @@ import * as Scale from "tonal-scale";
 import * as Chord from "tonal-chord";
 import * as PcSet from "tonal-pcset";
 import * as Range from "tonal-range";
+import * as Abc from "tonal-abc-notation";
 
-export { Array, Note, Interval, Distance, Scale, Chord, PcSet, Dictionary, Range };
+export { Array, Note, Interval, Distance, Scale, Chord, PcSet, Dictionary, Range, Abc };
 
 /**
  * Transpose a note by an interval

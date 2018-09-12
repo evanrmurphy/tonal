@@ -1,4 +1,4 @@
-_**About this fork of tonal:** The only difference from upstream is it includes tonal-range in the main build. This way Tonal.Range is available when importing via dist/tonal.min.js._
+_**About this fork of tonal:** The only difference from upstream is it includes tonal-range and tonal-abc-notation in the main build. This way `Tonal.Range` and `Tonal.Abc` are available when including Tonal with `dist/tonal.min.js`._
 
 # tonal [![npm](https://img.shields.io/npm/v/tonal.svg?style=flat-square)](https://www.npmjs.com/package/tonal)
 
